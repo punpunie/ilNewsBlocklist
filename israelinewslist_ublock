@@ -1,0 +1,16 @@
+! Title: Israeli news websites blocklist
+! Homepage: https://github.com/punpunie/ilNewsBlocklist
+
+! because im tired of seeing their shitty opinion columns
+
+! If u have the resources I urge you to donate to any fundraiser or to the eSIMs for Gaza campaign
+! https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/htmlview
+
+
+google.com,duckduckgo.com,bing.com##a[href*="timesofisrael.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ynetnews.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="jpost.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="haaretz.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="i24news.tv"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="israelnationalnews.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="globes.co.il"]:upward(div):style(opacity:0.00!important;)
