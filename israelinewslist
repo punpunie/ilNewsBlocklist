@@ -1,0 +1,15 @@
+### (English speaking) Israeli news websites blocklist for uBlacklist
+
+## because im tired of seeing their shitty opinion columns
+
+# If u have the resources I urge you to donate to any fundraiser or to the eSIMs for Gaza campaign
+# https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/htmlview
+
+*://*.timesofisrael.com/*
+*://*.jpost.com/*
+*://*.ynetnews.com/*
+*://*.israelhayom.com/*
+*://*.haaretz.com/*
+*://*.i24news.tv/*
+*://*.israelnationalnews.com/*
+*://*.globes.co.il/*
